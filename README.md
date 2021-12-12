@@ -15,7 +15,7 @@
 <a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/LICENSE"><img alt="github" src="https://img.shields.io/badge/License-AGPL-blue"/></a>
 </p>
 
-👋Hey <a href="https://telegram.dog/Mrk_YT">Muhammed</a>, Iam <a href="https://telegram.me/CC_imdbbot">Tony Stark</a>
+👋Hey <a href="https://telegram.dog/Mrk_YT">Aneebrahman</a>, Iam <a href="https://telegram.me/CC_imdbbot">Tony Stark</a>
 it's very easy to use Make me an admin for your group and channel then connect me....🎉
 Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
 🧒 Maintained By <a href="https://t.me/Aneeb_007">Aneeb_007</a>     
