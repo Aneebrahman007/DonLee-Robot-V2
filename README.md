@@ -109,12 +109,12 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 ↩️
 </p>
 
-- Dev  <a href="https://telegram.dog/PR0FESS0R_99">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
+- Dev  <a href="https://github.com/Aneebrahman007">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
 - Co Editor <a href="https://github.com/Xrsirx5">𝖷𝗋𝗌𝗂𝗋𝗑5</a>
 
-- Thanks To [Donlee_RoBot V1](https://github.com/PR0FESS0R-99/DonLee-robot-V1)
+- Thanks To [Donlee_RoBot V1](https://github.com/Aneebrahman007/DonLee-Robot-V2)
 - Thanks To [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Thanks To Me ](https://github.com/PR0FESS0R-99)
+- [Thanks To Me ](https://github.com/Aneebrahman007)
 ----
 ----
 * [Pr0fess0r-99](https://github.com/Pr0fess0r-99)
